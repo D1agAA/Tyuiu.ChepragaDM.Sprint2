@@ -28,6 +28,7 @@ namespace Tyuiu.ChepragaDM.Sprint2.Task0.V16
             Console.WriteLine("* y = 275                                                                 *");
             Console.WriteLine("***************************************************************************");
 
+
             int x, y;
             x = 1025;
             y = 275;

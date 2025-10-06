@@ -7,6 +7,7 @@ namespace Tyuiu.ChepragaDM.Sprint2.Task0.V16.Test
         [TestMethod]
         public void ValidGetCompareOperations()
         {
+
             DataService ds = new DataService();
             int x = 1025;
             int y = 275;
