@@ -29,7 +29,7 @@ namespace Tyuiu.ChepragaDM.Sprint2.Task1.V11
             Console.WriteLine("* b = 156                                                                 *");
             Console.WriteLine("* c = 142                                                                 *");
             Console.WriteLine("* d = 117                                                                 *");
-            Console.WriteLine("***************************************************************************");
+            
 
 
             int a, b,c,d;

@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ChepragaDM.Sprint2.Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ChepragaDM.Sprint2.Task1.V11", "Tyuiu.ChepragaDM.Sprint2.Task1.V11\Tyuiu.ChepragaDM.Sprint2.Task1.V11.csproj", "{C367FCE3-A102-48C6-8220-61550E0AC70D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{618874E6-17A0-4864-BD97-AC3DCC7A0229}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
