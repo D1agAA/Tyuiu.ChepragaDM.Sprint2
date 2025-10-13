@@ -10,7 +10,7 @@ namespace Tyuiu.ChepragaDM.Sprint2.Task2.V15
         Console.Title = "Спринт #2 | Выполнил: Чепрага Д. М. | ИБКСб-25-1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #2                                                               *");
-        Console.WriteLine("* Тема: Логические операции                                               *");
+        Console.WriteLine("* Тема: Оператор if - полная и краткая форма записи                       *");
         Console.WriteLine("* Задание #2                                                              *");
         Console.WriteLine("* Вариант #15                                                             *");
         Console.WriteLine("* Выполнил: Чепрага Дмитрий Максимович | ИБКСб-25-1                       *");
